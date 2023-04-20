@@ -27,3 +27,6 @@
    - index.html: The HTML code for the project.
    - style.css: The CSS code for the project.
    - script.js: The JavaScript code for the project.
+
+## Contributing
+ * If you would like to contribute to the project, feel free to create a pull request with your changes. Any contributions are welcome!
